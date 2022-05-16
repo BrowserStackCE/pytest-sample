@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../python-selenium-browserstack-main"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../browserstack-pytest-main"
+		},
+		{
+			"path": "../pytest-selenium-sample-old"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,10 @@
+
+{ 
+    "capabilities":
+    {
+        "browserName": "Chrome",
+        "os": "Windows",
+        "os_version":"latest",
+        "build": "Pytest Single Demo 2"
+    }
+}

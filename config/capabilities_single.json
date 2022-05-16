@@ -1,0 +1,11 @@
+
+{ 
+    "capabilities":
+    {
+        "browserName": "Chrome",
+        "os": "Windows",
+        "os_version":"10",
+        "browserstack.networkLogs" : "true",
+        "build": "Pytest Single Demo"
+    }
+}
